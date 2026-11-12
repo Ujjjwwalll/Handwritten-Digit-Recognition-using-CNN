@@ -145,53 +145,7 @@ CNN-Digit-Recognition/
 ├── requirements.txt
 │
 ├── README.md
-│
-└── .gitignore
 ```
-
-## 💻 Installation & Setup
-
-Follow these steps to run the project locally.
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/CNN-Digit-Recognition.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd CNN-Digit-Recognition
-```
-
-**3. Create a virtual environment**
-
-```bash
-python -m venv venv
-```
-
-**4. Activate the virtual environment (Windows)**
-
-```bash
-venv\Scripts\activate
-```
-
-**5. Install the dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-**6. Run the Streamlit application**
-
-```bash
-streamlit run app.py
-```
-
-The application will open in your browser, generally at:
-
-`http://localhost:8501`
 
 ## 🔮 Future Improvements
 
@@ -221,8 +175,7 @@ Through this project, I gained practical experience in:
 
 BCA Graduate | Aspiring AI/ML Developer
 
-Interested in Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+Interested in Machine Learning, Deep Learning and Generative AI.
 
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star!
